@@ -1,0 +1,114 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	color: #fff;
+}
+.menu{
+	background: #e05169;
+	min-height: 50px;
+}
+.logo{
+	margin: 7px 0px 7px 39px;
+
+	width: 30%;
+	float: left;
+}
+.nav{
+	min-height: 10px;
+	width: 40%;
+	float: right;
+	margin: 10px 0px;
+}
+.nav ul li{
+	list-style-type: none;
+	display: inline;
+}
+.nav ul li a{
+	text-decoration: none;
+	font-size: 24px;
+	margin-left: 40px;
+	color: #fff;
+	
+}
+.main{
+	background: url('images/header.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 450px;
+	text-align: center;
+}
+.main h2{
+	padding-top: 60px;
+	font-size: 35px;
+	width: 35%;
+	margin: 0px auto;
+}
+.main p{
+	font-size: 20px;
+	width: 50%;
+	margin: 0px auto;
+	padding: 30px 0;
+}
+.main a{
+	text-decoration: none;
+	font-size: 20px;
+	margin-top: 15px;
+	color: #fff;
+	padding: 10px 20px;
+	background: #e05169;
+}
+.mid{
+	color: black;
+	margin-top: 50px;
+	text-align: center;
+}
+.mid h2{
+	color: #e05169;
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+.mid p{
+	font-size: 20px;
+	width: 52%;
+	margin: 0px auto;
+}
+.three{
+	color: black;
+	margin-bottom: 430px;
+
+}
+.me{
+	width: 30%;
+	float: left;
+	border: 2px solid black;
+	margin: 30px 0 0 30px;
+	text-align: center;
+}
+.me img{
+	width: 50%;
+	margin: 20px 0;
+}
+.me h3{
+	font-size: 25px;
+	font-weight: 500;
+	margin: 10px 0;
+}
+.me p{
+	text-align: justify;
+	padding: 0 20px 20px;
+}
+
+.how{
+	background: #e05169;
+	padding: 30px;
+	clear: both;
+	text-align: center;
+
+}
+.how h3{
+	font-size: 30px;
+	font-weight: 400;
+	
+}
